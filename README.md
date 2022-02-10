@@ -116,6 +116,9 @@ I'm mostly just doing this for my personal reference.
 * [RumbleDB](https://github.com/RumbleDB/rumble)
 * [JAX models](https://github.com/DarshanDeshpande/jax-models)
 * [Self-Supervised Speech Pre-training and Representation Learning Toolkit (S3PRL)](https://github.com/s3prl/s3prl)
+* [Fast Forward Computer Vision and other things (FFCV)](https://github.com/libffcv/ffcv)
+* [Optimal Transport Tools (OTT)](https://github.com/ott-jax/ott)
+* [DietGPU](https://github.com/facebookresearch/dietgpu)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
