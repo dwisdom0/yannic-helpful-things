@@ -119,7 +119,15 @@ I'm mostly just doing this for my personal reference.
 * [Fast Forward Computer Vision and other things (FFCV)](https://github.com/libffcv/ffcv)
 * [Optimal Transport Tools (OTT)](https://github.com/ott-jax/ott)
 * [DietGPU](https://github.com/facebookresearch/dietgpu)
-
+* [Know Your Data](https://github.com/pair-code/knowyourdata)
+* [CLIP weights released](https://github.com/openai/CLIP/blob/main/model-card.md)
+* [On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
+* [PGMax (probabalistic graph models)](https://github.com/vicariousinc/PGMax)
+* [Diambra](https://github.com/diambra/diambraArena)
+* [Python-FHEz (fully homomorphic encryption)](https://gitlab.com/deepcypher/python-fhez)
+* [TorchMetrics](https://github.com/PyTorchLightning/metrics)
+* [EvoJAX](https://github.com/google/evojax)
+* [OpenAI Gym documentation](https://www.gymlibrary.ml/)
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
 * [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
@@ -134,3 +142,4 @@ I'm mostly just doing this for my personal reference.
 
 # Things that are in a Helpful Things section but don't really seem to fit
 * [arxiv paper about not using O(n^2) memory for attention](https://arxiv.org/pdf/2112.05682.pdf)
+* [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://github.com/google/brain-tokyo-workshop/tree/master/es-clip)
