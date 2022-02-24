@@ -128,6 +128,9 @@ I'm mostly just doing this for my personal reference.
 * [TorchMetrics](https://github.com/PyTorchLightning/metrics)
 * [EvoJAX](https://github.com/google/evojax)
 * [OpenAI Gym documentation](https://www.gymlibrary.ml/)
+* [Evolution Gym (EvoGym)](https://github.com/EvolutionGym/evogym)
+* [Stable-baselines3 in Hugging Face Hub](https://github.com/huggingface/stable-baselines3)
+* [Transformer Reinforcement Learning (trl)](https://github.com/lvwerra/trl)
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
 * [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
