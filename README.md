@@ -131,6 +131,14 @@ I'm mostly just doing this for my personal reference.
 * [Evolution Gym (EvoGym)](https://github.com/EvolutionGym/evogym)
 * [Stable-baselines3 in Hugging Face Hub](https://github.com/huggingface/stable-baselines3)
 * [Transformer Reinforcement Learning (trl)](https://github.com/lvwerra/trl)
+* [Rubrix](https://github.com/recognai/rubrix)
+* [Kubric](https://arxiv.org/abs/2203.03570)
+* [Composer](https://github.com/mosaicml/composer)
+* [MuJoCo Python bindings](https://mujoco.readthedocs.io/en/latest/python.html)
+* [Monte Carlo Tree Search in JAX (Mctx)](https://github.com/deepmind/mctx)
+* [Pipline Abstractions for Deep Learning (PADL)](https://padl.ai/)
+* [Did it spill?](https://github.com/LaihoE/did-it-spill)
+* [TorchData and torchfuncs](https://pytorch.org/blog/pytorch-1.11-released/)
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
 * [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
