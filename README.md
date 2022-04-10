@@ -139,6 +139,11 @@ I'm mostly just doing this for my personal reference.
 * [Pipline Abstractions for Deep Learning (PADL)](https://padl.ai/)
 * [Did it spill?](https://github.com/LaihoE/did-it-spill)
 * [TorchData and torchfuncs](https://pytorch.org/blog/pytorch-1.11-released/)
+* [STUMPY](https://github.com/TDAmeritrade/stumpy)
+* [Fast TreeSHAP](https://github.com/linkedin/fasttreeshap)
+* [JaxTon](https://github.com/vopani/jaxton)
+* [Novelty MiniGrid (NovGrid)](https://github.com/eilab-gt/NovGrid)
+* [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
 * [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
@@ -149,6 +154,9 @@ I'm mostly just doing this for my personal reference.
 * [LAION-400M image dataset](https://laion.ai/laion-400-open-dataset/)
 * [H3 hexagonal coordinate system](https://github.com/uber/h3)
 * [alpha zero explanation](https://joshvarty.github.io/AlphaZero/)
+* [Laion-5B image-text pairs](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
+* [OpenCLIP](https://github.com/mlfoundations/open_clip)
+* [SalesForce CodeGen](https://github.com/salesforce/CodeGen)
 
 
 # Things that are in a Helpful Things section but don't really seem to fit
