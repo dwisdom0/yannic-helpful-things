@@ -151,6 +151,10 @@ I'm mostly just doing this for my personal reference.
 * [HuggingNFT](https://github.com/AlekseyKorshuk/huggingnft)
 * [Jacob Hilton's Deep Learning Cirriculum](https://github.com/jacobhilton/deep_learning_curriculum)
 * [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
+* [Quaterion](https://github.com/qdrant/quaterion)
+* [TorchDim](https://github.com/facebookresearch/torchdim)
+* [Composer](https://github.com/mosaicml/composer)
+* [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
