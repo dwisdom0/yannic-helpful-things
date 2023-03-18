@@ -155,6 +155,8 @@ I'm mostly just doing this for my personal reference.
 * [TorchDim](https://github.com/facebookresearch/torchdim)
 * [Composer](https://github.com/mosaicml/composer)
 * [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja)
+* [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+* [Shifts Challenge](https://shifts.ai/)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
