@@ -136,7 +136,7 @@ I'm mostly just doing this for my personal reference.
 * [Composer](https://github.com/mosaicml/composer)
 * [MuJoCo Python bindings](https://mujoco.readthedocs.io/en/latest/python.html)
 * [Monte Carlo Tree Search in JAX (Mctx)](https://github.com/deepmind/mctx)
-* [Pipline Abstractions for Deep Learning (PADL)](https://padl.ai/)
+* [Pipeline Abstractions for Deep Learning (PADL)](https://padl.ai/)
 * [Did it spill?](https://github.com/LaihoE/did-it-spill)
 * [TorchData and torchfuncs](https://pytorch.org/blog/pytorch-1.11-released/)
 * [STUMPY](https://github.com/TDAmeritrade/stumpy)
