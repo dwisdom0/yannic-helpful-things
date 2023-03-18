@@ -202,6 +202,11 @@ I'm mostly just doing this for my personal reference.
 * [numga](https://github.com/EelcoHoogendoorn/numga)
 * [Massive Text Embedding Benchmark leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 * [natbot](https://github.com/nat/natbot)
+* [Swift Diffusers: Fast Stable Diffusion for Mac](https://huggingface.co/blog/fast-mac-diffusers)
+* [pyribs](https://github.com/icaros-usc/pyribs/)
+* [PimEyes](https://pimeyes.com/en)
+* [CACTI framework](https://cacti-framework.github.io/)
+* [ControlNet](https://huggingface.co/spaces/hysts/ControlNet)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
