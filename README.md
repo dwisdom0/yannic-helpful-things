@@ -163,6 +163,8 @@ I'm mostly just doing this for my personal reference.
 * [Laion-5B image-text pairs](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
 * [OpenCLIP](https://github.com/mlfoundations/open_clip)
 * [SalesForce CodeGen](https://github.com/salesforce/CodeGen)
+* [Bloom](https://huggingface.co/bigscience/bloom)
+* [YaLM](https://github.com/yandex/YaLM-100B)
 
 
 # Things that are in a Helpful Things section but don't really seem to fit
