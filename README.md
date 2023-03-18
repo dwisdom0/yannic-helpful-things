@@ -144,6 +144,12 @@ I'm mostly just doing this for my personal reference.
 * [JaxTon](https://github.com/vopani/jaxton)
 * [Novelty MiniGrid (NovGrid)](https://github.com/eilab-gt/NovGrid)
 * [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
+* [Squirrel](https://github.com/merantix-momentum/squirrel-core)
+* [PyScript](https://pyscript.net)
+* [Big Vision](https://github.com/google-research/big_vision)
+* [DeepSportRadar Challenges](https://github.com/DeepSportRadar/camera-calibration-challenge)
+* [HuggingNFT](https://github.com/AlekseyKorshuk/huggingnft)
+
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
 * [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
