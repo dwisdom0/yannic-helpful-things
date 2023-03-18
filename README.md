@@ -149,6 +149,8 @@ I'm mostly just doing this for my personal reference.
 * [Big Vision](https://github.com/google-research/big_vision)
 * [DeepSportRadar Challenges](https://github.com/DeepSportRadar/camera-calibration-challenge)
 * [HuggingNFT](https://github.com/AlekseyKorshuk/huggingnft)
+* [Jacob Hilton's Deep Learning Cirriculum](https://github.com/jacobhilton/deep_learning_curriculum)
+* [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
