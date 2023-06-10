@@ -223,6 +223,9 @@ I'm mostly just doing this for my personal reference.
 * [SalesForce CodeGen](https://github.com/salesforce/CodeGen)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * [YaLM](https://github.com/yandex/YaLM-100B)
+* [data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
+* [Casual Conversations v2 dataset](https://ai.facebook.com/datasets/casual-conversations-v2-dataset/)
+* [GILGEN](https://gligen.github.io/)
 
 
 # Things that are in a Helpful Things section but don't really seem to fit
