@@ -207,6 +207,22 @@ I'm mostly just doing this for my personal reference.
 * [PimEyes](https://pimeyes.com/en)
 * [CACTI framework](https://cacti-framework.github.io/)
 * [ControlNet](https://huggingface.co/spaces/hysts/ControlNet)
+* [https://learnprompting.org/](https://learnprompting.org/)
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails/tree/main)
+* [LMQL](https://lmql.ai/)
+* [Pandas AI](https://github.com/gventuri/pandas-ai)
+* [Lamini](https://www.lamini.ai)
+* [DeepFloyd IF](https://github.com/deep-floyd/IF)
+* [Shimmy](https://shimmy.farama.org/)
+* [Embeddings for Wikipedia](https://huggingface.co/datasets/Cohere/wikipedia-22-12)
+* [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
+* [H2OGPT](https://github.com/h2oai/h2ogpt)
+* [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)
+* [Amateur Drawings Dataset](https://github.com/facebookresearch/AnimatedDrawings#amateur-drawings-dataset)
+* [CAMEL](https://github.com/camel-ai/camel)
+* [Paella](https://laion.ai/blog/paella/)
+* [Sebastian Raschka's blog](https://magazine.sebastianraschka.com/)
+* [Pick a Pic](https://huggingface.co/datasets/yuvalkirstain/PickaPic)
 
 
 # Things that aren't in a Helpful Things section but they seem to be in that spirit
@@ -226,8 +242,15 @@ I'm mostly just doing this for my personal reference.
 * [data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
 * [Casual Conversations v2 dataset](https://ai.facebook.com/datasets/casual-conversations-v2-dataset/)
 * [GILGEN](https://gligen.github.io/)
+* [StarCoder](https://huggingface.co/bigcode/starcoder)
+* [RedPajama](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1)
+* [OpenLLaMA](https://github.com/openlm-research/open_llama)
+* [MPT-7B](https://www.mosaicml.com/blog/mpt-7b)
+* [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)
 
 
 # Things that are in a Helpful Things section but don't really seem to fit
 * [arxiv paper about not using O(n^2) memory for attention](https://arxiv.org/pdf/2112.05682.pdf)
 * [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://github.com/google/brain-tokyo-workshop/tree/master/es-clip)
+* [Snorkel poster contest](https://future.snorkel.ai/poster-contest/)
+* ["As an AI language model..." Amazon reviews](https://twitter.com/d_feldman/status/1649466422018318338)
