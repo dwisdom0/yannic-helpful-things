@@ -247,6 +247,7 @@ I'm mostly just doing this for my personal reference.
 * [OpenLLaMA](https://github.com/openlm-research/open_llama)
 * [MPT-7B](https://www.mosaicml.com/blog/mpt-7b)
 * [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)
+* [OpenLLaMA](https://github.com/openlm-research/open_llama)
 
 
 # Things that are in a Helpful Things section but don't really seem to fit
